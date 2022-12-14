@@ -8,7 +8,7 @@ namespace FahrenheitACelsiusYViceversa
         {
             int opcion;
             double resultado, temperatura;
-            Console.Write("Ingresa el valor de temperatura: ");
+            Console.Write("Ingresa el valor de temperatura, POR FI:) ");
             temperatura = double.Parse(Console.ReadLine());
             Console.WriteLine("Selecciona el valor de opcion.");
             Console.WriteLine("\t1.- Fahrenheit a Celsius");
